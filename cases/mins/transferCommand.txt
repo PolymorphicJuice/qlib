@@ -1,0 +1,1 @@
+python scripts/dump_bin.py dump_all --csv_path  E:/BaiduNetdiskDownload/quant/2023/data --qlib_dir E:/BaiduNetdiskDownload/quant/2023qlib --freq 1min --symbol_field_name order_book_id --date_field_name datetime --include_fields total_turnover,volume,low,num_trades,high,open,close --max_workers 16
